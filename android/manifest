@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.1.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: ti-parselivequery
+author: Prashant Saini
+license: Open Source
+copyright: Copyright (c) 2022 by Prashant Saini
+
+# these should not be edited
+name: ti-parselivequery
+moduleid: ti.parselivequery
+guid: f542beda-b74a-4af5-9479-4b2191e471eb
+platform: android
+minsdk: 9.0.0.GA
